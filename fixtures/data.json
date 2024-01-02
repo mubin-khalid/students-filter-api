@@ -1,0 +1,202 @@
+[
+  {
+    "model": "students",
+    "data": {
+      "id": 1,
+      "name": "Darcy Cherry",
+      "marks": 51.1
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 2,
+      "name": "Sanchez Woodward",
+      "marks": 53
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 3,
+      "name": "Margaret Gilmore",
+      "marks": 94.7
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 4,
+      "name": "Dionne Wall",
+      "marks": 99.5
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 5,
+      "name": "Bradshaw Cote",
+      "marks": 95
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 6,
+      "name": "Saunders Farley",
+      "marks": 37
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 7,
+      "name": "Sloan Roman",
+      "marks": 80.9
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 8,
+      "name": "Jarvis Porter",
+      "marks": 11.5
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 9,
+      "name": "Beatrice Moon",
+      "marks": 27.9
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 10,
+      "name": "Jacklyn Knowles",
+      "marks": 81.7
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 11,
+      "name": "Sears Barnes",
+      "marks": 62.7
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 12,
+      "name": "Alissa Rowland",
+      "marks": 75.5
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 13,
+      "name": "Stefanie Mcclain",
+      "marks": 21.1
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 14,
+      "name": "Carver Foley",
+      "marks": 28.1
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 15,
+      "name": "Brady Moss",
+      "marks": 17.4
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 16,
+      "name": "Battle Barker",
+      "marks": 76.5
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 17,
+      "name": "Jordan Hess",
+      "marks": 17.2
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 18,
+      "name": "Francisca Ewing",
+      "marks": 82.6
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 19,
+      "name": "Dodson Hampton",
+      "marks": 56.1
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 20,
+      "name": "Stacy Sims",
+      "marks": 87.7
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 21,
+      "name": "Angel Davis",
+      "marks": 73.5
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 22,
+      "name": "Simpson Allison",
+      "marks": 90.7
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 23,
+      "name": "Laverne Ryan",
+      "marks": 53.3
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 24,
+      "name": "Gay Rosario",
+      "marks": 78.9
+    }
+  },
+  {
+    "model": "students",
+    "data": {
+      "id": 25,
+      "name": "Helen Stevens",
+      "marks": 93.5
+    }
+  }
+]
